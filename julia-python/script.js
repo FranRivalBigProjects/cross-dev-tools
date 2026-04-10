@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+j.value>+p.value?'Julia faster':'Python faster';}

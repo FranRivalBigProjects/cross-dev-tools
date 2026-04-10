@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+h.value>+j.value?'Haskell faster':'Julia faster';}

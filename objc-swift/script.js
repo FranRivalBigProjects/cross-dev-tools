@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+o.value<+s.value?'Objective-C uses less':'Swift uses less';}

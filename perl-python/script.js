@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+perl.value>+py.value?'Perl better':'Python better';}

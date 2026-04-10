@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+l.value>+p.value?'Lua faster':'Python faster';}

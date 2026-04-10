@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+z.value>+c.value?'Zig safer':'C safer';}

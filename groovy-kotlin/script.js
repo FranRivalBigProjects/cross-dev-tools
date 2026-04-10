@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+g.value>+k.value?'Groovy wins':'Kotlin wins';}
